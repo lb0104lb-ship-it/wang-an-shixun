@@ -1,0 +1,7 @@
+﻿# 输入法/系统日志
+*.log
+debug.log
+
+# 临时文件
+*.tmp
+.dsh-setup/
